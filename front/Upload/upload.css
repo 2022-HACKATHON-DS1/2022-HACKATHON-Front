@@ -65,6 +65,7 @@ body{
   border: none;
   border-bottom: 1px solid #FF4D00;
   background-color: rgba(0, 0, 0, 0.80);
+  color: white;
 }
 
 .uploadMenu {
